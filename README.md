@@ -65,6 +65,6 @@ Here are some ideas to get you started:
 <p/>
 
 
-## 🎮 Find some treasure here !!! 
+## 🎮 Find Some Treasure Here!!! 
 ![snake gif](https://github.com/san-limbong/san-limbong/blob/output/github-contribution-grid-snake.svg)
 
