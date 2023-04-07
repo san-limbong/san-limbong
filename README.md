@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there 👋 lets connected...
 <p align="left">
   I am a final year student in the Information Systems. I am passionate about Data Processing
 and Data-Driven-Decision-Making.
