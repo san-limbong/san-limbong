@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Watch my contribution graph get eaten by the snake 🐍
+## Watch my contribution graph get eaten by the snake 🐍
 ![snake gif](https://github.com/san-limbong/san-limbong/blob/output/github-contribution-grid-snake.svg)
 
 
