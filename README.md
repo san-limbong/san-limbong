@@ -1,5 +1,5 @@
 ### Hello there 👋 lets connected...
-<p align="left">
+<p>
   I am a final year student in the Information Systems. I am passionate about Data Processing
 and Data-Driven-Decision-Making.
 </p>
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🛠 Tech Tools
-<img align="right" alt="" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif"/>
+<img align="right" alt="" width="35%" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif"/>
 
 ### 📋 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;&nbsp;
