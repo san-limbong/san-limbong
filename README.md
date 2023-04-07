@@ -65,6 +65,6 @@ Here are some ideas to get you started:
 <p/>
 
 
-## 🎮 Watch my contribution graph get eaten by the snake 🐍
+## 🎮 Find some treasure here !!! 
 ![snake gif](https://github.com/san-limbong/san-limbong/blob/output/github-contribution-grid-snake.svg)
 
