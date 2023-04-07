@@ -59,12 +59,10 @@ Here are some ideas to get you started:
 ## 📈 Statistics
 <br>
 <p align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=san-limbong&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=discord_old_blurple&icon_color=DD2727" alt="GitHub stats" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=san-limbong&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=0000&title_color=1d87da&icon_color=539bf5&text_color=539bf5" alt="GitHub stats" />
   &nbsp;&nbsp;&nbsp;
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=san-limbong&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=discord_old_blurple" alt="Top languages used"/>
-</p>
-
-<hr/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=san-limbong&hide=html&hide_border=true&layout=compact&langs_count=8&bg_color=0000&title_color=1d87da&icon_color=539bf5&text_color=539bf5" alt="Top languages used"/>
+<p/>
 
 
 ## 🎮 Watch my contribution graph get eaten by the snake 🐍
