@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://github.com/san-limbong/san-limbong/blob/main/1.gif" width="50%"/>
   
   <div id="badges">
   <a href="https://www.linkedin.com/in/san-antonio-limbong-b45044230">
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <hr>
 
 ## 🛠 Tech Tools
-<img align="right" alt="" width="45%" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif"/>
+<img align="right" alt="" width="45%" src="https://github.com/san-limbong/san-limbong/blob/main/2.gif"/>
 
 ### 📋 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;&nbsp;
@@ -75,14 +75,13 @@ Here are some ideas to get you started:
 <p align="center">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=san-limbong&show_icons=true&include_all_commits=true&count_private=true&theme=transparent" alt="GitHub stats" />
   &nbsp;&nbsp;&nbsp;
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=san-limbong&hide=html&layout=compact&langs_count=8&theme=transparent" alt="Top languages used"/>
-    <img height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=san-limbong&theme=transparent" alt=""/>
-
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=san-limbong&hide=html&layout=compact&langs_count=8&theme=transparent" alt="Top languages used"/>  &nbsp;&nbsp;&nbsp;
+    <img height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=san-limbong&theme=transparent" alt=""/>  &nbsp;&nbsp;&nbsp;
 <p/>
 
 <hr>
 
-## :video_game: Heyyy... check out the cool games below!!! :smile:
+## :video_game: Heyyy mate... check out the cool game below!!! :smile:
 <p align="center"><samp> Thanks for dropping in :sparkles: :grin: If you're interested, you can leave :star: on my repositories that you find interesting!</samp> </p>
 
 ![snake gif](https://github.com/san-limbong/san-limbong/blob/output/github-contribution-grid-snake.svg)
