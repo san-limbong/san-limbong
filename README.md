@@ -1,8 +1,26 @@
-### Hello there 👋 lets connected...
-<p>
-  I am a final year student in the Information Systems. I am passionate about Data Processing
-and Data-Driven-Decision-Making.
-</p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/san-antonio-limbong-b45044230">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:sanantoniolimbong.com">
+    <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://wa.me/">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
+  </a>
+</div>
+  
+  ![Visitor Count](https://profile-counter.glitch.me/{san-limbong}/count.svg)
+</div>
+
+
+
+### Hello there... 👋 lets be in touch
+<p align="center"><samp> I am a final year student in the Information Systems. I am passionate about Data Processing
+and Data-Driven-Decision-Making.</samp> </p>
 
 <!--
 **san-limbong/san-limbong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,8 +37,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<hr>
+
 ## 🛠 Tech Tools
-<img align="right" alt="" width="35%" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif"/>
+<img align="right" alt="" width="45%" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif"/>
 
 ### 📋 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;&nbsp;
@@ -32,11 +52,6 @@ Here are some ideas to get you started:
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;&nbsp;
 
-### ⚙️ Other
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;&nbsp;
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;&nbsp;
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;&nbsp;
-
 ### 💾 Databases
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;&nbsp;
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;&nbsp;
@@ -45,27 +60,30 @@ Here are some ideas to get you started:
 ### 📊 Analytics
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)&nbsp;&nbsp;
 
+### ⚙️ Other
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;&nbsp;
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;&nbsp;
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;&nbsp;
+
+<hr>
 
 ## 📜 Publication / Paper
 - 
-
-
-## :mailbox: Lets get in touch
-<p>
-  <a href="https://www.linkedin.com/in/san-antonio-limbong-b45044230" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="mailto:sanantoniolimbong.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a> &nbsp;
-  <a href="https://wa.me/" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>  
-</p>
+<hr>
 
 ## 📈 Statistics
-<br>
 <p align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=san-limbong&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=0000&title_color=1d87da&icon_color=539bf5&text_color=539bf5" alt="GitHub stats" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=san-limbong&show_icons=true&include_all_commits=true&count_private=true&theme=transparent" alt="GitHub stats" />
   &nbsp;&nbsp;&nbsp;
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=san-limbong&hide=html&hide_border=true&layout=compact&langs_count=8&bg_color=0000&title_color=1d87da&icon_color=539bf5&text_color=539bf5" alt="Top languages used"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=san-limbong&hide=html&layout=compact&langs_count=8&theme=transparent" alt="Top languages used"/>
+    <img height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=san-limbong&theme=transparent" alt=""/>
+
 <p/>
 
+<hr>
 
-## 🎮 Find Some Treasure Here!!! 
+## :video_game: Heyyy... check out the cool games below!!! :smile:
+<p align="center"><samp> Thanks for dropping in :sparkles: :grin: If you're interested, you can leave :star: on my repositories that you find interesting!</samp> </p>
+
 ![snake gif](https://github.com/san-limbong/san-limbong/blob/output/github-contribution-grid-snake.svg)
 
