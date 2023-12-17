@@ -17,10 +17,11 @@
 </div>
 
 
-
+<!--
 ### Hello there... 👋 lets be in touch
 <p align="center"><samp> I am a final year student in the Information Systems. I am passionate about Data Processing
 and Data-Driven-Decision-Making.</samp> </p>
+
 
 <!--
 **san-limbong/san-limbong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,10 +39,11 @@ Here are some ideas to get you started:
 -->
 
 <hr>
-
+<!--
 ## 🛠 Tech Tools
 <img align="right" alt="" width="45%" src="https://github.com/san-limbong/san-limbong/blob/main/2.gif"/>
 
+<!--
 ### 📋 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;&nbsp;
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;&nbsp;
@@ -87,3 +89,4 @@ Here are some ideas to get you started:
 
 ![snake gif](https://github.com/san-limbong/san-limbong/blob/output/github-contribution-grid-snake.svg)
 
+-->
