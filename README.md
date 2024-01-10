@@ -84,11 +84,11 @@ Here are some ideas to get you started:
 
 <hr>
 
--->
+
 
 ## :video_game: Heyyy mate... check out the cool game below!!! :smile:
 <p align="center"><samp> Thanks for dropping in :sparkles: :grin: If you're interested, you can leave :star: on my repositories that you find interesting!</samp> </p>
 
 ![snake gif](https://github.com/san-limbong/san-limbong/blob/output/github-contribution-grid-snake.svg)
 
-
+-->
